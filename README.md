@@ -1,6 +1,9 @@
 # DescargASHEI
 
-Descargá video y audio de **YouTube, X/Twitter, Instagram y TikTok** en Mac y Windows. Todo viene incluido: no hace falta instalar nada más.
+Descargá video y audio de **YouTube, X/Twitter, Instagram, TikTok y VODs de Kick** en Mac y Windows. Todo viene incluido: no hace falta instalar nada más.
+
+- 🎹 **Detectar tonalidad y BPM** de cualquier beat o canción (ej. *G# minor · 4A · 140 BPM*).
+- 🎬 **Optimizar para editores**: MP4 con cuadros constantes que no se traba en reproductores ni en Premiere, CapCut o DaVinci (ideal para VODs de Kick).
 
 ## Descargar
 
@@ -27,4 +30,4 @@ Cuando hay versión nueva aparece arriba el botón verde **Update to …**: un c
 El motor de descargas (yt-dlp) también se mantiene al día automáticamente.
 
 ---
-Solo descarga contenido público o que estés autorizado a descargar. Incluye yt-dlp (Unlicense) y FFmpeg (GPL).
+Solo descarga contenido público o que estés autorizado a descargar. Incluye yt-dlp (Unlicense), Deno (MIT) y FFmpeg (GPL).
